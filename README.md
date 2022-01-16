@@ -16,15 +16,14 @@
     
 <div>
 <a href="https://github.com/ferreirachristopher">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirachristopher&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=ferreirachristopher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferreirachristopher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
   
   <p align="center"> 
-      Find me at:
-     <br>
+       Find me at:
+      <br>
   <a href="mailto:christopherfsilva25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/christophersilva1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
