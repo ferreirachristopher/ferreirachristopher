@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center"> Olá, me chamo Christopher👋</h1>
 
-<!--
-**ferreirachristopher/ferreirachristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/JSXlcb2U0czPcBHL2k/giphy.gif" align="right" min-width="500px" max-width="550px" width="300px">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+    Estudante desenvolvedor Front-End, entusiasta com tecnologias voltadas para a web.
+    </p>
+<p align="left">
+    Formado em Sistemas de Informação, atualmente trabalhando como Suporte Técnico com 3 anos de experência. Em transição de carreira dentro da área de TI para o Desenvolvimento, com foco em Front-End.
+    
+<p align="left">
+  🚀 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>.
+  
+<p align="left">
+  👨‍💻 Estudando: <strong>JavaScript Avançado</strong>, <strong> React </strong>.
+ 
+  
+  <div>
+  <p> Encontre-me em: </p>
+  <a href="mailto:christopherfsilva25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/christophersilva1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   </div>
+   
+  
+   
+    
