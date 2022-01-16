@@ -14,10 +14,10 @@
 <p align="left">
   👨‍💻 Estudando: <strong>JavaScript Avançado</strong>, <strong>React</strong>.
     
-<div>
+ <p align="center"> 
 <a href="https://github.com/ferreirachristopher">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferreirachristopher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+    </p>
 
 
   
